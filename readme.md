@@ -9,7 +9,7 @@ Clone onto your workstation and run on your local browser.
 
 ## Usage
 
-Feel free to use this as a starting point. Thanks to Jeff Delaney and csstricks.com 
+Feel free to use this as a starting point. Thanks to Jeff Delaney(https://github.com/codediodeio) and csstricks.com 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
